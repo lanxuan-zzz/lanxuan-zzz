@@ -9,7 +9,7 @@
 
 
 
--   <a href="[https://mianhuatang.vip/]"><code><img height="20" width="50" src="./images/favicon.png"></code></a>：个人博客：棉花糖
+-   <a href="https://mianhuatang.vip/"><code><img height="20" width="50" src="./images/favicon.png"></code></a>：个人博客：棉花糖
 
 ### **技术栈:**
 
